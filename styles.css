@@ -83,7 +83,7 @@ body {
 /* ============================================================================================================================================== */
 
 .header {
-  background-image: url('old man.png');
+  background-image: url(images/oldman.png);
   background-size: cover;
   background-position: left;
   height: 100vh;
@@ -224,20 +224,20 @@ h2 {
 }
 
 .card:nth-child(1) {
-  background-image: url('person3.png');
+  background-image: url(images/person3.png);
   background-size: cover;
   background-position: center;
   height: 30rem;
 }
 
 .card:nth-child(2) {
-  background-image: url('person2.png');
+  background-image: url(images/person2.png);
   background-size: cover;
   background-position: center;
 }
 
 .card:nth-child(3) {
-  background-image: url('person1.png');
+  background-image: url(images/person1.png);
   background-size: cover;
   background-position: center;
 }
